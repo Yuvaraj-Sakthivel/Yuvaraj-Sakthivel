@@ -71,23 +71,11 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yuvaraj-Sakthivel&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
+<img src="https://github-profile-trophy.vercel.app/?username=Yuvaraj-Sakthivel&theme=onedark"/>
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Yuvaraj-Sakthivel/Yuvaraj-Sakthivel/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
+https://raw.githubusercontent.com/Yuvaraj-Sakthivel/Yuvaraj-Sakthivel/output/github-contribution-grid-snake.svg
 
 ## 🌐 Connect With Me
 
